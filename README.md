@@ -13,7 +13,7 @@
 ![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)
 ![Mysql](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
 ![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis)
-![GCP](https://img.shields.io/badge/-GoogleCloud-05122A?style=flat&logo=GoogleCloud)
+![GCP](https://img.shields.io/badge/-GCP-05122A?style=flat&logo=GoogleCloud)
 ![Elastic](https://img.shields.io/badge/-Elastic-05122A?style=flat&logo=Elastic)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=Kubernetes)
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker)
