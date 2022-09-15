@@ -1,5 +1,5 @@
 # Hifounder
-##
+## GitHub Profile Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=hifounder&theme=onedark&row=2&column=3&rank=S)](https://github.com/ryo-ma/github-profile-trophy)
 ## Stat
 ![stats](https://github-readme-stats.vercel.app/api?username=hifounder&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true)
